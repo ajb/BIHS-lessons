@@ -22,17 +22,25 @@ Let's write that definition down:
 
 Let's build a madlib. Does everyone know what a madlib is? (Draw on board)
 
-> "My favorite food is (kind of food). You can get it at (name of store), where it's really (adjective). 
+> "My favorite food is (kind of food). You can get it at (name of store). 
 
 We're going to make this madlib inside of Scratch.
 
 (Create madlib without using variables)
 
-Alright, so the madlib works. But did we use any variables? Let's create a new program, just a simple one that asks your name and says "Hello (name)", but this time we'll use variables.
+![img](http://take.ms/gKm3N)
+
+Alright, so the madlib works. But did we use any variables? Let's create it again, but this time we'll use variables.
 
 ## We do
 
-https://github.com/ScriptEdcurriculum/curriculum/tree/master/units/4-scratch/lessons/2-variables#guided-practice-we-do
+So let's all follow along as I create this program on the board. So we want to ask all of the questions at the beginning, store the answers in variables, and then say the madlib at the end. (Remove all existing blocks, wait for students to get Scratch open.)
+
+- How do we ask a question?
+- Now this is important: you need to create your variable in the "data" section. What should we call it?
+- Which one of these blocks that were created should we use to set our variable to the answer?
+- Now let's ask another question...
+- Now let's say it
 
 ## You do
 
